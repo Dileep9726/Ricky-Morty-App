@@ -14,4 +14,6 @@ class CharacterViewModel : ViewModel() {
             _characters.postValue(characters)
         }
     }
+
+    //commit 1
 }
